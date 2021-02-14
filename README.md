@@ -5,7 +5,7 @@ Libtorch_example_1の続き。やってることはほとんど同じだけど�
 
 CustomDataSet
 -
-```
+```c++
 class CustomDataSet : public torch::data::Dataset<CustomDataSet> {
   private:
     torch::Tensor inputs, labels;
