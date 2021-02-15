@@ -1,6 +1,6 @@
 # Libtorch_example_2
 Some examples of Libtorch. (Part 2)
-Libtorch_example_1の続き。やってることはほとんど同じだけど、CustomDataSetを作ってやっているという点が異なる。
+Libtorch_example_1 (https://github.com/rotildeof/Libtorch_example_1) の続き。やってることはほとんど同じだけど、CustomDataSetを作ってやっているという点が異なる。
 これをすることによって、batchごとの学習ができるようになったりする。多分他にも色々とできるようになると思われる。
 
 CustomDataSet
